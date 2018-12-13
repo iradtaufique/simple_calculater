@@ -1,0 +1,15 @@
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe.config
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.exe
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\bin\Debug\WindowsFormsApp33.pdb
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csprojAssemblyReference.cache
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Form1.resources
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.formcalculater.resources
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.Properties.Resources.resources
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.GenerateResource.cache
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.exe
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.pdb
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.formRoom.resources
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.formRoom2.resources
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.formstudentname.resources
+C:\Users\Teacher\source\repos\WindowsFormsApp33\WindowsFormsApp33\obj\Debug\WindowsFormsApp33.formstudentregnumber.resources
